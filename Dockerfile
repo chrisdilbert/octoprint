@@ -1,5 +1,5 @@
 
-FROM python:2.7
+FROM arm32v7/python:2.7.13-jessie
 EXPOSE 5000
 LABEL maintainer "chrisdilbert at  gmail dot com"
 
